@@ -3,6 +3,12 @@
 
 Task was to obtain the gene sequence from FASTA file. Provided Fasta file is contained of two types of lines where the first line is the name of the read and the second line is the nucleotide sequence.
 
+##Requirements
+
+In order to be able to run the code found in this repository, it is necessary to:
+
+Python interpreter (>=3.8.0) (Recommendation: [Anaconda](https://www.anaconda.com/products/distribution))
+
 ## Getting started
 
 The project was done in Python 3.9 and Windows 11 OS. 
