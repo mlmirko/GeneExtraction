@@ -3,7 +3,7 @@
 
 Task was to obtain the gene sequence from FASTA file. Provided Fasta file is contained of two types of lines where the first line is the name of the read and the second line is the nucleotide sequence.
 
-##Requirements
+## Requirements
 
 In order to be able to run the code found in this repository, it is necessary to:
 
